@@ -1,1 +1,1 @@
-URL_APP: https://imaginative-paletas-0cd847.netlify.app/
+URL_APP: https://cool-hotteok-83ed4b.netlify.app/
